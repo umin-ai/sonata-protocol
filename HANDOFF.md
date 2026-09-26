@@ -1,5 +1,7 @@
 # Sonata — handoff and evidence
 
+> **Moved.** This repository is now part of [umin-ai/sonata](https://github.com/umin-ai/sonata), under [`protocol/`](https://github.com/umin-ai/sonata/tree/main/protocol), with its full history. The current evidence document is [umin-ai/sonata/HANDOFF.md](https://github.com/umin-ai/sonata/blob/main/HANDOFF.md). This copy is archived and no longer updated.
+
 Last updated 26 September 2026. Every transaction below is on Solana Devnet; its test tokens have no monetary value, and nothing here is an offer of securities.
 
 **How to read this document.** Every factual statement points to one of three things: a source line (pinned permalink or `path:line`), a Devnet transaction or account on Solana Explorer, or an external page. Where a statement cannot be checked that way it is labelled as a limitation or a hypothesis. If a citation here does not support its claim, treat that as a defect in this document.

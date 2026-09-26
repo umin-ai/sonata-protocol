@@ -1,5 +1,7 @@
 # Sonata protocol
 
+> **Moved.** This repository is now part of [umin-ai/sonata](https://github.com/umin-ai/sonata), under [`protocol/`](https://github.com/umin-ai/sonata/tree/main/protocol), with its full history. The current evidence document is [umin-ai/sonata/HANDOFF.md](https://github.com/umin-ai/sonata/blob/main/HANDOFF.md). This copy is archived and no longer updated.
+
 Anchor programs behind Sonata, a Solana launchpad where community tokens trade against a tokenized stock on Meteora's Dynamic Bonding Curve (DBC). Devnet only; mock tokens have no monetary value.
 
 **Try the app on Devnet: https://sonata.umin.ai** (source: [umin-ai/sonata](https://github.com/umin-ai/sonata)).
